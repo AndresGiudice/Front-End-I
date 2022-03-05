@@ -1,0 +1,148 @@
+
+.background {
+   
+    background-color:#E6E6E6  ;
+    position: absolute;
+    width: 1440px;
+    height: 188.19px;
+    left: 0px;
+    top: 0px;
+   
+}
+
+.logo_batman {
+
+    position: absolute;
+    width: 100px;
+    height: 146.37px;
+    left: 670px;
+    top: 20.91px;
+}
+
+.rectangulo1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:#C4C4C4 ;
+    position: absolute;
+    width: 1440px;
+    height: 60px;
+    left: 0px;
+    top: 188px;
+
+}
+
+h1{
+   font-family: 'Times New Roman', Times, serif;
+    font-size: 28px;
+    font-feature-settings: 'cpsp' on;
+    color: #005677;
+}
+
+.rectangulo2 {
+
+    
+    position: absolute;
+    width: 1440px;
+    height: 30px;
+    left: 0px;
+    top: 381px;
+    background: #C4C4C4
+
+}
+
+h2 {
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 13px;
+    line-height: 84.69%;
+    font-feature-settings: 'cpsp' on;
+    color: #005677;
+
+}
+
+
+.lista_de_datos {
+
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    line-height: 150%; 
+    
+
+}
+
+li span{
+    font-weight: bold;
+}
+
+.cursiva {
+    font-style: italic;
+}
+
+.rectangulo3 {
+
+    position: absolute;
+    width: 1440px;
+    height: 30px;
+    left: 0px;
+    top: 120px;
+    background: #C4C4C4;
+
+}
+
+.lista_formacion_academica {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    line-height: 150%; 
+    text-align: star;
+    
+
+}
+
+.rectangulo4 {
+
+    position: absolute;
+    width: 1440px;
+    height: 30px;
+    left: 0px;
+    top: 140px;
+    background: #C4C4C4;
+}
+
+.lista_experiencia_laboral{
+
+
+    
+}
+
+
+.rectangulo5{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    width: 1440px;
+    height: 30px;
+    left: 0px;
+    top: 987px;
+    background-color: #005677;
+
+}
+
+.pie_0810{
+
+    color: white;
+
+}
+
+.logo_insta{
+    float:left;
+    margin-left:20px;
+}
+
+.logo_ln {
+    float:left;
+    margin-left:20px;
+
+
+}
